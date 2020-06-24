@@ -1,8 +1,0 @@
-{
-  "realm": "Client",
-  "auth-server-url": "http://yoser.com:8080/auth",
-  "ssl-required": "external",
-  "resource": "google-oauth",
-  "public-client": true,
-  "confidential-port": 0
-}
