@@ -1,0 +1,8 @@
+{
+  "realm": "examples",
+  "auth-server-url": "http://yoser.com:8080/auth",
+  "ssl-required": "none",
+  "resource": "app-web-react",
+  "public-client": true,
+  "confidential-port": 0
+}
